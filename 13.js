@@ -7,7 +7,6 @@ const planets = [
 	"토성",
 	"천왕성",
 	"해왕성"
-	dd
 ];
 
 const n = prompt("몇번째 행성을 원하시나요?"); //prompt 출력함수
